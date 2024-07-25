@@ -7,7 +7,7 @@ http.createServer(function (req, res){
 	var filename = "."+q.pathname;
 	console.log(filename);
 	if (filename == "./") {
-		filename = "./15_index"; 
+		filename = "./15git_index"; 
 		console.log(filename);
 	}
 	filename = filename + ".html";
