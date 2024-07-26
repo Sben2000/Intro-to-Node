@@ -4,6 +4,7 @@
   "description": "Simple web App",
   "main": "15git_HelloServer.js",
   "scripts": {
+    "start": "node 15git_HelloServer.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
